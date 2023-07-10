@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github.com](https://github.com/Adel-Harrat/fm-junior-intro-section-with-dropdown-navigation)
-- Live Site URL: [Vercel.com](https://fm-junior-intro-section-with-dropdown-navigation.vercel.app/1)
+- Live Site URL: [Vercel.com](https://fm-junior-intro-section-with-dropdown-navigation.vercel.app/)
 
 ## My process
 
